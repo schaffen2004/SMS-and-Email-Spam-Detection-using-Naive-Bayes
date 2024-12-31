@@ -1,1 +1,1 @@
-# SMS-and-Email-Spam-Detection-using-Naive-Bayes
+# SMS/Email Spam Detection using Naive Bayes
